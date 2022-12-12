@@ -7,11 +7,12 @@ on:
     branches:
       - main
     paths-ignore:
-      #       - "CHANGELOG.md"
+      - "CHANGELOG.md"
       - "README.md"
   release:
     types:
       - published
+      # - created
       - edited
 env:
   GO_VERSION: 1.19.3
