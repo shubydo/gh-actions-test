@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/shubydo/gh-actions-test/compare/v1.2.3...v1.3.0) (2022-12-12)
+
+
+### Features
+
+* test ignore ([654e8b7](https://github.com/shubydo/gh-actions-test/commit/654e8b7cd50037c739c6bfce91c98ad2c4af2d28))
+
 ## [1.2.3](https://github.com/shubydo/gh-actions-test/compare/v1.2.2...v1.2.3) (2022-12-12)
 
 
