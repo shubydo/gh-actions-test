@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.2.0](https://github.com/shubydo/gh-actions-test/compare/v1.1.5...v1.2.0) (2022-12-12)
+
+
+### Features
+
+* test not triggering main build on CHANGELOG ([121846e](https://github.com/shubydo/gh-actions-test/commit/121846ef3fed9100869b41009defa49eee311c10))
+
+
+### Bug Fixes
+
+* deploy on tags ([c1406ba](https://github.com/shubydo/gh-actions-test/commit/c1406bac79f8107e2f1310fc5bd8af63d4535556))
+* nothing ([66c3635](https://github.com/shubydo/gh-actions-test/commit/66c3635d0794c5088e5a08417bc04bc9cbb578ef))
+* nothing 2 ([4003c8f](https://github.com/shubydo/gh-actions-test/commit/4003c8fb70e6937e7e16bbf0252740d4188a7260))
+* nothing 3 ([142de2e](https://github.com/shubydo/gh-actions-test/commit/142de2e67c3bc130cba493dcc44d3783524f0af0))
+* nothing 3 ([1ad1ad6](https://github.com/shubydo/gh-actions-test/commit/1ad1ad6e498fc934efb7c83e1d0d689afed008d8))
+* test ([9482298](https://github.com/shubydo/gh-actions-test/commit/94822985962c6fed98b73906a5beb9bd5f01dfb2))
+* test ([8cb6e2e](https://github.com/shubydo/gh-actions-test/commit/8cb6e2e0e0dd0f82dbc94b8ae0133823e515b4b2))
+* trigger on release create ([10699a4](https://github.com/shubydo/gh-actions-test/commit/10699a4ea21e31512c78457eac487bb705972f3f))
+* trigger on release tag being released ([9958c94](https://github.com/shubydo/gh-actions-test/commit/9958c9467703ca67a654c588c11e595301d6aadf))
+
 ## [1.1.5](https://github.com/shubydo/gh-actions-test/compare/v1.1.4...v1.1.5) (2022-12-12)
 
 
