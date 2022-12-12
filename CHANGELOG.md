@@ -7,6 +7,13 @@
 
 * deploy on tags ([c1406ba](https://github.com/shubydo/gh-actions-test/commit/c1406bac79f8107e2f1310fc5bd8af63d4535556))
 
+## [1.1.5](https://github.com/shubydo/gh-actions-test/compare/v1.1.4...v1.1.5) (2022-12-12)
+
+
+### Bug Fixes
+
+* deploy on tags ([c1406ba](https://github.com/shubydo/gh-actions-test/commit/c1406bac79f8107e2f1310fc5bd8af63d4535556))
+
 ## [1.1.4](https://github.com/shubydo/gh-actions-test/compare/v1.1.3...v1.1.4) (2022-12-12)
 
 
