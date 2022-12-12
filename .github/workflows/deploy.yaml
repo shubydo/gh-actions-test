@@ -3,12 +3,12 @@ name: Deploy
 # Deploy to dev on push to main
 # Deploy to dev and prod when a release tag is created
 on:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - "CHANGELOG.md"
-      - "README.md"
+  # push:
+  #   branches:
+  #     - main
+  #   paths-ignore:
+  #     - "CHANGELOG.md"
+  #     - "README.md"
   release:
     types:
       - published
