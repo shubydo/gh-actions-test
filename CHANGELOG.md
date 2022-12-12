@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.4](https://github.com/shubydo/gh-actions-test/compare/v1.1.3...v1.1.4) (2022-12-12)
+
+
+### Bug Fixes
+
+* test ([9482298](https://github.com/shubydo/gh-actions-test/commit/94822985962c6fed98b73906a5beb9bd5f01dfb2))
+* trigger on release tag being released ([9958c94](https://github.com/shubydo/gh-actions-test/commit/9958c9467703ca67a654c588c11e595301d6aadf))
+
 ## [1.1.3](https://github.com/shubydo/gh-actions-test/compare/v1.1.2...v1.1.3) (2022-12-12)
 
 
