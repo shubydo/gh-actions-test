@@ -3,9 +3,6 @@ name: Deploy
 # Deploy to dev on push to main
 # Deploy to dev and prod when a release tag is created
 on:
-  release:
-    types:
-      - published
   push:
     branches:
       - main
@@ -14,9 +11,11 @@ on:
       - "README.md"
     # tags:
     #   - v[0-9]+.[0-9]+.[0-9]+
-
-    # - created
-    # - released
+  release:
+    types:
+      - published
+      # - created
+      # - released
 env:
   GO_VERSION: 1.19.3
   TERRAFORM_VERSION: 1.3.5
