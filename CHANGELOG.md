@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.2](https://github.com/shubydo/gh-actions-test/compare/v1.3.1...v1.3.2) (2022-12-12)
+
+
+### Bug Fixes
+
+* nothing 5 ([53049b4](https://github.com/shubydo/gh-actions-test/commit/53049b4adf2b06ee38ca9e97523a8d14cb9b06cc))
+* service release 2 ([3c43efb](https://github.com/shubydo/gh-actions-test/commit/3c43efb6b2a2e148c09904361804d503a74d1093))
+
 ## [1.3.1](https://github.com/shubydo/gh-actions-test/compare/v1.3.0...v1.3.1) (2022-12-12)
 
 
