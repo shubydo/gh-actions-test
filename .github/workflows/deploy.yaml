@@ -18,7 +18,7 @@ on:
   # - released
 
 # Set run-name to the release tag if event is a release, otherwise use the default run-name
-run-name: ${{ github.event_name == 'release' && 'Release - github.event.release.tag_name' || '' }}
+run-name: ${{ github.event_name == 'release' && 'Release - ${{ github.event.release.tag_name }}' || '' }}
 
 env:
   GO_VERSION: 1.19.3
@@ -40,9 +40,6 @@ jobs:
         run: |
           echo "Image tag: ${{ env.TAG }}"
 
-          echo "::set-output name=image_tag::${{ env.TAG }}"
-          echo "Image tag: ${{ env.TAG }}"
-
   deploy_dev:
     name: Deploy to dev
     runs-on: ubuntu-latest
@@ -51,6 +48,7 @@ jobs:
       - name: Deploy to Dev
         run: |
           echo "Deploy to Dev"
+          echo "Image tag: ${{ env.TAG }}"
 
   # Only run if event is a release
   deploy_prod:
@@ -62,3 +60,4 @@ jobs:
       - name: Deploy to Prod
         run: |
           echo "Deploy to Prod"
+          echo "Image tag: ${{ env.TAG }}"
