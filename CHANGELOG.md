@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/shubydo/gh-actions-test/compare/v1.3.7...v1.4.0) (2022-12-13)
+
+
+### Miscellaneous Chores
+
+* release v1.4.0 ([fc30f0d](https://github.com/shubydo/gh-actions-test/commit/fc30f0d93eb688c324c8a89c11d8e1cc944d2d9c))
+
 ## [1.3.7](https://github.com/shubydo/gh-actions-test/compare/v1.3.6...v1.3.7) (2022-12-13)
 
 
