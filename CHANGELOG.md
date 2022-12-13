@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/shubydo/gh-actions-test/compare/v1.4.0...v1.4.1) (2022-12-13)
+
+
+### Bug Fixes
+
+* get tag name from conditional ([ddc59da](https://github.com/shubydo/gh-actions-test/commit/ddc59daa57d9f5ccd35be5bd59d37a03b898bff4))
+
 ## [1.4.0](https://github.com/shubydo/gh-actions-test/compare/v1.3.7...v1.4.0) (2022-12-13)
 
 
