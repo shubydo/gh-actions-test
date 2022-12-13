@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.6](https://github.com/shubydo/gh-actions-test/compare/v1.3.5...v1.3.6) (2022-12-13)
+
+
+### Bug Fixes
+
+* use pat to trigger prod release ([334adee](https://github.com/shubydo/gh-actions-test/commit/334adeea68b088c530c81f5534cc8c1217af734a))
+
 ## [1.3.5](https://github.com/shubydo/gh-actions-test/compare/v1.3.4...v1.3.5) (2022-12-12)
 
 
