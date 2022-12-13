@@ -3,11 +3,6 @@
 ## [1.3.7](https://github.com/shubydo/gh-actions-test/compare/v1.3.6...v1.3.7) (2022-12-13)
 
 
-### Bug Fixes
-
-* nothing 4 ([ba9f4a3](https://github.com/shubydo/gh-actions-test/commit/ba9f4a38e8e8737bb063b542a30365025062d75a))
-* nothing 5 ([992c866](https://github.com/shubydo/gh-actions-test/commit/992c866f2255ffd41d752c8b0e69e36ae940536c))
-
 ## [1.3.6](https://github.com/shubydo/gh-actions-test/compare/v1.3.5...v1.3.6) (2022-12-13)
 
 
