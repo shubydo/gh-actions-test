@@ -1,0 +1,8 @@
+# Label all pull requests with AWS label
+
+AWS:
+  - "*"
+
+# Label all pull requests with Azure label
+Test:
+  - "*"
