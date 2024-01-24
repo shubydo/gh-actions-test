@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/shubydo/gh-actions-test/compare/v1.4.3...v2.0.0) (2024-01-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* **release-please:** This is a test to see how this shows up in the [action](https://github.com/google-github-actions/release-please-action). This repo should never have a huge breaking change
+
+### Bug Fixes
+
+* **release-please:** remove invalid fields ([9e90cbb](https://github.com/shubydo/gh-actions-test/commit/9e90cbb0abc8ce01e881cfba9126b1f99345ec7a))
+
 ## [1.4.3](https://github.com/shubydo/gh-actions-test/compare/v1.4.3...v1.4.3) (2022-12-13)
 
 
